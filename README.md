@@ -92,8 +92,13 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/menu
            hydratedContentText: text.trim(),
            hydratedFooterText: wm,
            hydratedButtons: [{           	
-```
+```njibsy
 ----           
+
+# Run On Heroku
+WhatsApp Bot Multi Device
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/Hyzer-MD-V2/)
 
 
 ## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
