@@ -68,7 +68,7 @@ let message = await prepareWAMessageMedia({ image: fs.readFileSync('./media/elya
            hydratedContentText: text.trim(),
            hydratedFooterText: wm,
            hydratedButtons: [{
-```
+```j 
 
 ### Location Menu Display
 ```ts
